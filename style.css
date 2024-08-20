@@ -1,0 +1,36 @@
+body {
+  font-size: 15px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  color: green;
+}
+
+.content-block {
+  background-color: rgb(114, 208, 229);
+}
+
+.content-block p {
+  text-align: center;
+}
+
+.content-block h4 {
+  text-align: center;
+  color: rgb(255, 132, 0);
+}
+
+table{
+  background-color: rgb(186, 185, 185);
+}
+
+.content-block td {
+  padding-right: 40px;
+}
+
+.iframe-block {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
